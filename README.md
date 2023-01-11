@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub repo](https://github.com/alencardotpy/huddle-landing-page-with-single-introductory-section)
-- Live Site URL: [GitHub Pages](soon)
+- Live Site URL: [GitHub Pages](https://alencardotpy.github.io/huddle-landing-page-with-single-introductory-section)
 
 ## My process
 
