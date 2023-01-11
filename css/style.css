@@ -174,7 +174,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 40px;
+    padding: 10px;
     background-color: var(--ColorViolet);
     background-image: url("../images/bg-desktop.svg");
     background-size: 100vw;
