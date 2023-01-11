@@ -80,7 +80,7 @@ body {
 .main_container__title_container {
   margin: 30px auto 0 auto;
   padding: 0;
-  width:250px;
+  width: 250px;
 }
 
 .main_container__title_container__text {
@@ -128,7 +128,7 @@ body {
 
 .footer {
   max-width: 80vw;
-  margin:20px auto
+  margin: 20px auto;
 }
 
 .footer__list {
@@ -178,7 +178,6 @@ body {
     background-color: var(--ColorViolet);
     background-image: url("../images/bg-desktop.svg");
     background-size: 100vw;
-    
   }
   .main_container {
     max-width: 80vw;
@@ -205,6 +204,7 @@ body {
     grid-area: title;
     display: flex;
     align-items: flex-end;
+    width: 100%;
   }
   .main_container__title_container__text {
     text-align: left;
@@ -233,8 +233,7 @@ body {
   }
   .main_container__register_container__button {
     width: 150px;
-
-    margin-right: 250px;
+    margin-right: 350px;
     margin-top: -15px;
   }
   .footer {
